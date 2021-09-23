@@ -334,7 +334,7 @@
         <properties>
             <!-- Optional URL to server. Default value is http://localhost:9000 -->
             <sonar.host.url>
-              https://sonarqube.suse.lab
+              http:10.30.124.75:9000
             </sonar.host.url>
         </properties>
     </profile>
